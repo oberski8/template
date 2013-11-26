@@ -22,6 +22,7 @@ header, main, footer {
 
 header, main h1 {
   color:#660066;
+  background-color: #ffffff
 }
 
 a, a:visited {
