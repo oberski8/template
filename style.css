@@ -1,6 +1,9 @@
 * { color:#000000; 
   font-family:Avenir-Light, Tahoma;
-  
+  h1
+{
+background-color:#ffffff;
+}
 }
 body {
   color:#404040 ;
