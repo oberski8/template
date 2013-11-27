@@ -1,4 +1,4 @@
-* { color:#ffffff; 
+* { color:#FFF8DC; 
   font-family:Avenir-Light, Tahoma;
 }
 body {
@@ -21,7 +21,7 @@ header, main, footer {
 }
 
 header, main h1 {
-  color:#FFCC00;
+  color:#F08080;
   border-radius:5px;
 }
 
