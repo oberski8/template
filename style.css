@@ -8,14 +8,7 @@ body {
   width:960px;
   margin:auto;
   }
-  .wrapper.container {
-  background: #fff;
-  padding: 30px;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-  margin-bottom: 30px;
-  border-radius: 2px;
-  border: outset;
-}
+
 body
 {
 background-image:url('http://1.bp.blogspot.com/--lXcLbcohMI/UGq_ExT-3_I/AAAAAAAAKm4/GYKRBSJdKwQ/s1600/Black+and+White+Wallpapers+5.jpg');
@@ -26,6 +19,14 @@ background-color:#cccccc;
 header, main, footer {
   clear:both;
   margin-left:0;
+ }
+  .wrapper.container {
+  background: #fff;
+  padding: 30px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  border-radius: 2px;
+  border: outset;
   
 }
 
