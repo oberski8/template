@@ -8,11 +8,6 @@ body {
   width:960px;
   margin:auto;
   }
-  .wrapper.footer {
-  background: #222;
-  padding: 30px;
-  border-radius: 2px 2px 0px 0px;
-}
 
 body
 {
@@ -25,10 +20,20 @@ header, main, footer {
   clear:both;
   margin-left:0;
  }
+ .wrapper.footer {
+  background: #222;
+  padding: 30px;
+  border-radius: 2px 2px 0px 0px;
+}
 
 header, main h1 {
   color:#F08080;
   border-radius:5px;
+}
+.wrapper.footer {
+  background: #222;
+  padding: 30px;
+  border-radius: 2px 2px 0px 0px;
 }
 
 a, a:visited {
