@@ -7,6 +7,14 @@ body {
   font-family:Avenir-Light, Tahoma;
   width:960px;
   margin:auto;
+  }
+  .wrapper.container {
+  background: #fff;
+  padding: 30px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  border-radius: 2px;
+  border: outset;
 }
 body
 {
@@ -25,13 +33,6 @@ header, main h1 {
   color:#F08080;
   border-radius:5px;
 }
-.wrapper.container {
-  background: #fff;
-  padding: 30px;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-  margin-bottom: 30px;
-  border-radius: 2px;
-  border: outset;
 
 a, a:visited {
   color:#c0c0c0;
