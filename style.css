@@ -20,21 +20,24 @@ header, main, footer {
   clear:both;
   margin-left:0;
  }
- .wrapper.footer {
-  background: #222;
+.wrapper.container {
+  background: #fff;
   padding: 30px;
-  border-radius: 2px 2px 0px 0px;
-}
-
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  border-radius: 2px;
+  border: outset;
 header, main h1 {
   color:#F08080;
   border-radius:5px;
 }
-.wrapper.footer {
-  background: #222;
+.wrapper.container {
+  background: #fff;
   padding: 30px;
-  border-radius: 2px 2px 0px 0px;
-}
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  border-radius: 2px;
+  border: outset;
 
 a, a:visited {
   color:#c0c0c0;
