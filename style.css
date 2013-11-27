@@ -1,6 +1,14 @@
 * { color:#708090; 
   font-family:Avenir-Light, Tahoma;
 }
+.wrapper.container {
+  background: #fff;
+  padding: 30px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  border-radius: 2px;
+  border: outset;
+  }
 body {
   color:#404040 ;
   background:#33FFCC;
@@ -20,15 +28,6 @@ header, main, footer {
   clear:both;
   margin-left:0;
  }
-  .wrapper.container {
-  background: #fff;
-  padding: 30px;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-  margin-bottom: 30px;
-  border-radius: 2px;
-  border: outset;
-  
-}
 
 header, main h1 {
   color:#F08080;
