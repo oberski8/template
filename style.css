@@ -1,14 +1,11 @@
 * { color:#708090; 
   font-family:Avenir-Light, Tahoma;
 }
-.wrapper.container {
-  background: #fff;
+.wrapper.footer {
+  background: #222;
   padding: 30px;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-  margin-bottom: 30px;
-  border-radius: 2px;
-  border: outset;
-  }
+  border-radius: 2px 2px 0px 0px;
+}
 body {
   color:#404040 ;
   background:#33FFCC;
