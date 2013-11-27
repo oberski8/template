@@ -1,11 +1,6 @@
 * { color:#708090; 
   font-family:Avenir-Light, Tahoma;
 }
-.wrapper.footer {
-  background: #222;
-  padding: 30px;
-  border-radius: 2px 2px 0px 0px;
-}
 body {
   color:#404040 ;
   background:#33FFCC;
@@ -13,6 +8,11 @@ body {
   width:960px;
   margin:auto;
   }
+  .wrapper.footer {
+  background: #222;
+  padding: 30px;
+  border-radius: 2px 2px 0px 0px;
+}
 
 body
 {
