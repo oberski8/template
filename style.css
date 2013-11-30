@@ -2,7 +2,8 @@
   font-family:Avenir-Heavy, Tahoma;
 }
 p{
-  background-color: #E8E8E8 opacity: .05;
+  background-color: #E8E8E8;
+  opacity:.08;
 }
 body {
   color:#404040 ;
