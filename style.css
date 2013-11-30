@@ -2,6 +2,9 @@
   font-family:Candara, Tahoma;
 }
 
+table, td {
+  border: 3px, #000000, dotted;
+}
 body {
   color:#404040 ;
   background:#33FFCC;
