@@ -28,7 +28,7 @@ header, main h1 {
 }
 
 a, a:visited {
-  color:#006666;
+  color:#006666, dotted;
   text-decoration:none;
 }
 
@@ -80,6 +80,6 @@ a:hover {
   
 article {
   width:800px;
-  display: block, dotted;
+  display: block;
   float:right;
   }
