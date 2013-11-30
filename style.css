@@ -1,5 +1,5 @@
 * { color:#000000; 
-  font-family:Candara,  Tahoma;
+  font-family:Candara, Tahoma;
 }
 
 body {
@@ -45,7 +45,7 @@ a:hover {
 }
 
 #nav li {
-  display:block;
+  display:block, dotted;
   float: left;
   padding:5px;
   margin-bottom:20px;
