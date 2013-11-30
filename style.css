@@ -61,6 +61,7 @@ a:hover {
   font-size:13px;
   border: 2px dotted white;
   border-radius:30px;
+  background-color: #FF0066;
 }
 #menu {
   width:150px;
