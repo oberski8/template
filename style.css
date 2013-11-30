@@ -28,7 +28,7 @@ header, main h1 {
 }
 
 a, a:visited {
-  color:#006666, dotted;
+  color:#006666;
   text-decoration:none;
 }
 
@@ -55,7 +55,7 @@ a:hover {
   text-align:center;
   font-size:13px;
   border: 2px solid white;
-  border-radius:30px;
+  border-radius:30px, dotted;
 }
 #menu {
   width:150px;
