@@ -38,14 +38,14 @@ a:hover {
 }
 
 #nav {
-  list-style: none;
+  list-style: dotted;
   width:960px;
   margin-left:-40px;
   
 }
 
 #nav li {
-  display:block, dotted;
+  display:block;
   float: left;
   padding:5px;
   margin-bottom:20px;
