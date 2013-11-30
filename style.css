@@ -54,8 +54,8 @@ a:hover {
   width:110px;
   text-align:center;
   font-size:13px;
-  border: 2px solid white;
-  border-radius:dotted;
+  border: 2px dotted white;
+  border-radius:30px;
 }
 #menu {
   width:150px;
