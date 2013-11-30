@@ -38,7 +38,7 @@ a:hover {
 }
 
 #nav {
-  list-style: dotted;
+  list-style: none;
   width:960px;
   margin-left:-40px;
   
@@ -80,6 +80,6 @@ a:hover {
   
 article {
   width:800px;
-  display: block;
+  display: block, dotted;
   float:right;
   }
