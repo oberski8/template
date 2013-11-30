@@ -55,7 +55,7 @@ a:hover {
   text-align:center;
   font-size:13px;
   border: 2px solid white;
-  border-radius:30px, dotted;
+  border-radius:dotted;
 }
 #menu {
   width:150px;
