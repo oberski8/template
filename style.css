@@ -1,6 +1,10 @@
 * { color:#008080; 
   font-family:Avenir-Heavy, Tahoma;
 }
+p{
+  background-color: #E8E8E8;
+
+}
 body {
   color:#404040 ;
   background:#33FFCC;
