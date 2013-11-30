@@ -2,9 +2,9 @@
   font-family:Candara, Tahoma;
 }
 
-table, td {
-  border:5px;
-  color:#000000 dotted;
+table{
+  border:5px dotted white;
+
 }
 
 body {
